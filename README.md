@@ -3,7 +3,7 @@ for testing purpose
 
 
 # Create a directory for the project and navigate into it:
-mkdir mern-docker-app
+mkdir mern-docker-app,
 cd mern-docker-app
 
 # Create a server directory for the backend:
@@ -18,7 +18,7 @@ npm init -y
 npm install express mongoose cors
 
 # Create a Dockerfile for the backend in the server directory (same as before):
-presend inside the server
+present inside the server
 
 
 # Create an Express server in server/index.js (same as before):
