@@ -27,14 +27,12 @@ present inside the server
 #  Now  Set Up the Frontend (React.js):
 
 # Create a client directory for the frontend:
-bash
-Copy code
+
 mkdir client
 cd client
 
 # Initialize a new React application:
-bash
-Copy code
+
 npx create-react-app .
 # Create a Dockerfile for the frontend in the client directory (same as before):
 
